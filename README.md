@@ -1,6 +1,7 @@
-# proj1
+# project test practice
 
 > Nuxt.js project
+Пробный проект. В последствии в нем будет использована библиотека c3.js.
 
 ## Build Setup
 
